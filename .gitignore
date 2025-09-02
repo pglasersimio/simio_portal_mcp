@@ -4,3 +4,9 @@ __pycache__/
 *.pyc
 *.pyo
 .DS_Store
+.env.example
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/simio_portal_mcp.iml
+.idea/vcs.xml
