@@ -1,0 +1,16 @@
+[project]
+name = "mcp-simio"
+version = "0.1.0"
+description = "MCP server exposing Simio Portal operations via pysimio"
+requires-python = ">=3.10"
+dependencies = [
+  "mcp>=1.1.0",
+  "pysimio>=0.1.0",
+  "python-dotenv>=1.0.1",
+  "tenacity>=8.3.0",
+  "pydantic>=2.8.0"
+]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
