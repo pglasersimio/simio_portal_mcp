@@ -1,0 +1,7 @@
+python-dotenv>=1.0
+tenacity>=8.2
+pydantic>=2.6
+requests>=2.31
+mcp>=0.1.0
+fastmcp>=0.1.0
+pysimio==1.3
